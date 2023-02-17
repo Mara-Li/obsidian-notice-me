@@ -9,6 +9,8 @@ There is only three settings per notice:
 
 To add a new notice, just click the `+` button in the plugin's settings.
 
+Feat: Random message to get some idea!
+
 ## Installation
 
 ## Installation  
