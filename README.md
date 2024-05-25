@@ -16,7 +16,7 @@ Feat: Random message to get some idea!
 ## Installation  
 
 - [ ] From Obsidian's community plugins  
-- [x] Using [BRAT](https://github.com/TfTHacker/obsidian42-brat#adding-a-beta-plugin) using `https://github.com/Lisandra-dev/obsidian-notice-me`  
+- [x] Using [BRAT](https://github.com/TfTHacker/obsidian42-brat#adding-a-beta-plugin) using `https://github.com/Mara-Li/obsidian-notice-me`  
 - [x] From release page:  
   - Download the latest release  
   - Unzip create-note-in-path.zip in `.obsidian/plugins/` path  
